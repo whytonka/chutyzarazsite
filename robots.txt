@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chutyzaraz.com/sitemap.xml
